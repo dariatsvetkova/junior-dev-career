@@ -8,6 +8,7 @@ https://www.joshwcomeau.com/effective-portfolio/	Free book on building a portfol
 https://www.reddit.com/r/webdev/comments/90xmpw/how_to_prep_your_github_for_job_seeking/	Preparing your GitHub profile for job hunt
 https://github.com/learn-co-curriculum/careers-welcome	Flatiron's guide to job search
 https://glidecv.com/	Resume feedback from ATS scan
+https://www.fullyprepped.ca/en/	General interview prep, templates and job search tracker
 
 
 ## Tech interview prep
