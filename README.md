@@ -37,6 +37,8 @@ https://www.themuse.com/  Job board
 https://www.womenwhocode.com/jobs	Job board - womxn
 https://www.techto.org/newsletter	Newsletter with job postings - Toronto
 https://www.diversifytech.co/job-board/entry-level	Job board - diversity
+
+https://hackerx.org/virtual/	 Invite-only networking events with face-to-face rapid-interviews
 	
 
 ## Internships / Mentorship programs - no degree required
