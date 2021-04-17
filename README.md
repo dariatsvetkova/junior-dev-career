@@ -50,7 +50,8 @@ https://careers.twitter.com/en/twitter-engineering-apprenticeship-program.html	T
 https://www.twilio.com/company/diversity/hatch	Twilio (US)
 https://www.ibm.com/us-en/employment/newcollar/apprenticeships/	IBM (EMEA & US)
 https://www.shopify.ca/careers/interns	Shopify (The Americas)
-
+https://the-collab-lab.codes/	Team project practice (free)
+https://chingu.io/	Team project practice (low-cost)
 
 ## Negotiating the offer
 
