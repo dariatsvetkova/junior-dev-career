@@ -52,6 +52,7 @@ https://www.ibm.com/us-en/employment/newcollar/apprenticeships/	IBM (EMEA & US)
 https://www.shopify.ca/careers/interns	Shopify (The Americas)
 https://the-collab-lab.codes/	Team project practice (free)
 https://chingu.io/	Team project practice (low-cost)
+https://www.codeforamerica.org/news/code-for-america-announces-2021-apprenticeship-program	Paid internships with US government-related organizations
 
 ## Negotiating the offer
 
