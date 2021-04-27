@@ -1,14 +1,20 @@
-# junior-dev-career
-Career resources for Junior Developers to help you land your first job
+# Career resources for Junior Developers to help you land your first job
 
+**Legend:**
+
+Most of the resources on this list are free; those that aren't, are marked with :moneybag:
+
+Opportunities for underrepresented folks are marked with :rainbow:
+
+Country-specific resources are marked with a flag and country icons, like :triangular_flag_on_post::canada: or :triangular_flag_on_post::uk:
 
 ## Getting ready for job search
 
-https://www.joshwcomeau.com/effective-portfolio/	Free book on building a portfolio
-https://www.reddit.com/r/webdev/comments/90xmpw/how_to_prep_your_github_for_job_seeking/	Preparing your GitHub profile for job hunt
-https://github.com/learn-co-curriculum/careers-welcome	Flatiron's guide to job search
-https://glidecv.com/	Resume feedback from ATS scan
-https://www.fullyprepped.ca/en/	General interview prep, templates and job search tracker
+* Flatiron's guide to job search: [link](https://github.com/learn-co-curriculum/careers-welcome)
+* eBook on building an effective **portfolio** website: [link](https://www.joshwcomeau.com/effective-portfolio/)
+* A hiring manager's tips on making your **GitHub profile** ready for job hunt: [link](https://www.reddit.com/r/webdev/comments/90xmpw/how_to_prep_your_github_for_job_seeking/)
+* See what your **resume** looks like after an ATS scan: [link one](https://www.topresume.com/resume-review) and [link two](https://glidecv.com/)(currently not working)
+* :triangular_flag_on_post::canada: General interview prep, templates and job search tracker: [link](https://www.fullyprepped.ca/en/)
 
 
 ## Tech interview prep
@@ -39,7 +45,7 @@ https://www.techto.org/newsletter	Newsletter with job postings - Toronto
 https://www.diversifytech.co/job-board/entry-level	Job board - diversity
 
 https://hackerx.org/virtual/	 Invite-only networking events with face-to-face rapid-interviews
-	
+
 
 ## Internships / Mentorship programs - no degree required
 
@@ -58,3 +64,8 @@ https://www.codeforamerica.org/news/code-for-america-announces-2021-apprenticesh
 
 https://www.levels.fyi/	Salary insights
 https://www.teamblind.com/topics/Job-Groups/Software-Engineering	Anonymous professional network with company/salary insights
+
+
+## Contribute to this list
+
+This repo has originated from my own job search as a frontend developer; because of that, it is mainly focused on web development. However, you are welcome to suggest resources for any career paths!
