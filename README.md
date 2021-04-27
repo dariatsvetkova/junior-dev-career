@@ -14,7 +14,7 @@ Country-specific resources are marked with a flag and country icons, like :trian
 * **Building an Effective Dev Portfolio** - an eBook by Josh Comeau: [link](https://www.joshwcomeau.com/effective-portfolio/)
 * A hiring manager's tips on making your **GitHub profile** ready for job hunt: [link](https://www.reddit.com/r/webdev/comments/90xmpw/how_to_prep_your_github_for_job_seeking/)
 * See what your **resume** looks like after an ATS scan: [topresume.com](https://www.topresume.com/resume-review) and [glidecv.com](https://glidecv.com/)(currently not working)
-* :triangular_flag_on_post::canada: General interview tips, networking and email templates: [fullyprepped.ca](https://www.fullyprepped.ca/en/)
+* General interview tips, networking and email templates: [fullyprepped.ca](https://www.fullyprepped.ca/en/) :triangular_flag_on_post::canada:
 
 
 ## Tech interview prep
@@ -22,9 +22,9 @@ Country-specific resources are marked with a flag and country icons, like :trian
 * Top-75 **LeetCode** questions to focus on: [link](https://www.teamblind.com/post/New-Year-Gift---Curated-List-of-Top-75-LeetCode-Questions-to-Save-Your-Time-OaM1orEU)
 * Competitive programming/interview prep: [codewars.com](https://www.codewars.com/)
 * **Tech interview handbook** - an eBook by Yangshun Tay: [link](https://yangshun.github.io/tech-interview-handbook/)
-* :moneybag: **Cracking the Coding Interview** - a 2016 book by Gayle Laakmann McDowell: [link](https://www.crackingthecodinginterview.com/)
+* **Cracking the Coding Interview** - a 2016 book by Gayle Laakmann McDowell: [link](https://www.crackingthecodinginterview.com/):moneybag:
 * **Mock interviews** with peers: [pramp.com](https://www.pramp.com/)
-* :moneybag: Anonymous **mock interviews** with senior engineers from top tech companies: [interviewing.io](https://interviewing.io/?urc=DMCa)
+* Anonymous **mock interviews** with senior engineers from top tech companies: [interviewing.io](https://interviewing.io/?urc=DMCa):moneybag:
 
 
 ## Organizing your job search
