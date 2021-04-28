@@ -1,6 +1,7 @@
-# Career resources for Junior Developers to help you land your first job
+# Career resources for Junior Developers
+## to help you land your first job
 
-**Legend:**
+### :label:Legend:
 
 Most of the resources on this list are free; those that aren't, are marked with :moneybag:
 
@@ -8,7 +9,7 @@ Opportunities for underrepresented folks are marked with :rainbow:
 
 Country-specific resources are marked with a flag and country icons, like :triangular_flag_on_post::canada: or :triangular_flag_on_post::uk:
 
-## Getting ready for job search
+## :nail_care:Getting ready for job search
 
 * Flatiron's guide to job search: [link](https://github.com/learn-co-curriculum/careers-welcome)
 * **Building an Effective Dev Portfolio** - an eBook by Josh Comeau: [link](https://www.joshwcomeau.com/effective-portfolio/)
@@ -17,7 +18,15 @@ Country-specific resources are marked with a flag and country icons, like :trian
 * General interview tips, networking and email templates: [fullyprepped.ca](https://www.fullyprepped.ca/en/) :triangular_flag_on_post::canada:
 
 
-## Tech interview prep
+## :clipboard:Organizing your job search
+
+* The Muse's **job tracker** in Google Sheets: [link](https://docs.google.com/spreadsheets/d/1b4_lpHeLb9NldVWgWKq14nMxHEvlF3qMpEd3QdOc7Ck/edit#gid=815296917)
+* Flatiron's **job tracker** in Google Sheets: [link](https://docs.google.com/spreadsheets/d/1zdl3Cs3ev0ehS9h2in1aNntLWNVUExNEjdi4Vn_ydy8/edit#gid=271319733)
+* **Notion template** for organizing the job hunt: [link](https://www.notioneverything.com/templates/job-hunt-tracker)
+* **Trello template** application tracker: [link](https://trello.com/templates/operations-hr/job-hunt-d3yVjzRE)
+
+
+## :books:Tech interview prep
 
 * Top-75 **LeetCode** questions to focus on: [link](https://www.teamblind.com/post/New-Year-Gift---Curated-List-of-Top-75-LeetCode-Questions-to-Save-Your-Time-OaM1orEU)
 * Competitive programming/interview prep: [codewars.com](https://www.codewars.com/)
@@ -27,45 +36,49 @@ Country-specific resources are marked with a flag and country icons, like :trian
 * Anonymous **mock interviews** with senior engineers from top tech companies: [interviewing.io](https://interviewing.io/?urc=DMCa):moneybag:
 
 
-## Organizing your job search
+## :rocket:Internships to put on your resume - no CS degree required
 
-https://docs.google.com/spreadsheets/d/1zdl3Cs3ev0ehS9h2in1aNntLWNVUExNEjdi4Vn_ydy8/edit#gid=271319733	Sample Job Search Tracker (Flatiron)
-https://docs.google.com/spreadsheets/d/1b4_lpHeLb9NldVWgWKq14nMxHEvlF3qMpEd3QdOc7Ck/edit#gid=815296917	Sample Job Search Tracker (The Muse)
-https://www.notioneverything.com/templates/job-hunt-tracker Notion job hunt tracker template
-
-
-## Job boards	
-
-https://www.builtinnyc.com/jobs	Job board - NYC
-https://angel.co/jobs	Job board - startups
-https://stackoverflow.com/jobs	Job board
-https://www.themuse.com/  Job board
-https://www.womenwhocode.com/jobs	Job board - womxn
-https://www.techto.org/newsletter	Newsletter with job postings - Toronto
-https://www.diversifytech.co/job-board/entry-level	Job board - diversity
-
-https://hackerx.org/virtual/	 Invite-only networking events with face-to-face rapid-interviews
+* Outreachy - 3-month paid, remote internship for underrepresented folks in **open source**: [link](https://www.outreachy.org/) :rainbow:
+* The Collab Lab - **team project practice**: [link](https://the-collab-lab.codes/) :triangular_flag_on_post:The Americas & EMEA :rainbow:
+* Code For America's paid 8-month apprenticeship in **open source civic tech** for underrepresented folks: [link](https://www.codeforamerica.org/news/code-for-america-announces-2021-apprenticeship-program) :triangular_flag_on_post::us: :rainbow:
+* Paid mentorship program for early-career **Ruby** developers: [links](https://rubyme.org/)
+* **Microsoft Leap** immersive 16-week apprenticeship for bootcamp grads and self-taught developers: [link](https://www.microsoft.com/en-us/leap/pathways/software-engineer/) :triangular_flag_on_post::us: & :nigeria: & :kenya: 
+* **LinkedIn Reach** apprenticeship program for bootcamp grads and self-taught developers: [link](https://careers.linkedin.com/reach) :triangular_flag_on_post::us:
+* **Twitter Engineering Apprenticeship** for bootcamp grads and self-taught developers: [link](https://careers.twitter.com/en/twitter-engineering-apprenticeship-program.html) :triangular_flag_on_post::us:
+* **Twilio Hatch** 6-month software engineering apprenticeship program for underrepresented persons: [link](https://www.twilio.com/company/diversity/hatch) :triangular_flag_on_post::us::rainbow:
+* **IBM New Collar** apprenticeship program for candidates without an advanced degree: [link](https://www.ibm.com/us-en/employment/newcollar/apprenticeships/) :triangular_flag_on_post::us: & EMEA
+* **Shopify** remote internships open to students, co-ops, recent graduates and early-career developers: [link](https://www.shopify.ca/careers/interns) :triangular_flag_on_post:The Americas
 
 
-## Internships / Mentorship programs - no degree required
+## :woman_dancing:Networking events
 
-https://rubyme.org/	For junior Ruby devs
-https://www.outreachy.org/	For underrepresented folks
-https://careers.linkedin.com/reach	LinkedIn (US)
-https://careers.twitter.com/en/twitter-engineering-apprenticeship-program.html	Twitter (US)
-https://www.twilio.com/company/diversity/hatch	Twilio (US)
-https://www.ibm.com/us-en/employment/newcollar/apprenticeships/	IBM (EMEA & US)
-https://www.shopify.ca/careers/interns	Shopify (The Americas)
-https://the-collab-lab.codes/	Team project practice (free)
-https://chingu.io/	Team project practice (low-cost)
-https://www.codeforamerica.org/news/code-for-america-announces-2021-apprenticeship-program	Paid internships with US government-related organizations
-
-## Negotiating the offer
-
-https://www.levels.fyi/	Salary insights
-https://www.teamblind.com/topics/Job-Groups/Software-Engineering	Anonymous professional network with company/salary insights
+* HackerX - networking events with **speed-dating style interviews**: [link](https://hackerx.org/)
+* TechTO Talent - livestreams and networking in the **Canadian startup** community: [link](https://www.techto.org/livestreams) :triangular_flag_on_post::canada:
+* Your local **meetups**: [link](https://www.meetup.com/)
 
 
-## Contribute to this list
+## :gem:Job boards
+
+| Geo                               | Name & Link                                                             | Specialty          |
+| --------------                    | ------------------------------------                                    | --------------     |
+|                                   | [Women Who Code](https://www.womenwhocode.com/jobs)                     | Womxn:rainbow:     |
+|                                   | [Diversity in Tech](https://www.diversifytech.co/job-board/entry-level) | Diversity:rainbow: |
+|                                   | [AngelList](https://angel.co/jobs)                                      | Startups           |
+|                                   | [Product Hunt](https://www.producthunt.com/jobs)                        | Startups           |
+| :triangular_flag_on_post::us:     | [Built In](https://builtin.com/tech-hubs)                               | Startups           |
+| :triangular_flag_on_post::canada: | [TechTO Career newsletter](https://www.techto.org/newsletter)           | Startups           |
+|                                   | [StackOverflow](https://stackoverflow.com/jobs)                         |                    |
+|                                   | [The Muse](https://www.themuse.com/)                                    |                    |
+
+
+## :money_with_wings:Negotiating the offer
+
+* Levels.fyi - salary insights across tech companies: [link](https://www.levels.fyi/)
+* Blind - anonymous professional network with company/salary insights: [link](https://www.teamblind.com/topics/Job-Groups/Software-Engineering)
+* Glassdoor - salary insights, company reviews and interview questions: [link](https://www.glassdoor.com/)
+
+
+
+## :fire:Contribute to this list
 
 This repo has originated from my own job search as a frontend developer; because of that, it is mainly focused on web development. However, you are welcome to suggest resources for any career paths!
