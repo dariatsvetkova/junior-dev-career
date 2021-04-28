@@ -53,6 +53,7 @@ Country-specific resources are marked with a flag and country icons, like :trian
 ## :woman_dancing:Networking events
 
 * HackerX - networking events with **speed-dating style interviews**: [link](https://hackerx.org/)
+* PowerToFly - diversity-focused **virtual career fair**: [link](https://powertofly.com/events/virtual-job-fair/) :rainbow:
 * TechTO Talent - livestreams and networking in the **Canadian startup** community: [link](https://www.techto.org/livestreams) :triangular_flag_on_post::canada:
 * Your local **meetups**: [link](https://www.meetup.com/)
 
