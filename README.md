@@ -29,6 +29,7 @@ Country-specific resources are marked with a flag and country icons, like :trian
 ## :books:Tech interview prep
 
 * Top-75 **LeetCode** questions to focus on: [link](https://www.teamblind.com/post/New-Year-Gift---Curated-List-of-Top-75-LeetCode-Questions-to-Save-Your-Time-OaM1orEU)
+* List of **interview questions** by programming language: [link](https://github.com/DopplerHQ/awesome-interview-questions)
 * Competitive programming/interview prep: [codewars.com](https://www.codewars.com/)
 * **Tech interview handbook** - an eBook by Yangshun Tay: [link](https://yangshun.github.io/tech-interview-handbook/)
 * **Cracking the Coding Interview** - a 2016 book by Gayle Laakmann McDowell: [link](https://www.crackingthecodinginterview.com/):moneybag:
