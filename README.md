@@ -65,12 +65,15 @@ Country-specific resources are marked with a flag and country icons, like :trian
 | --------------                    | ------------------------------------                                    | --------------     |
 |                                   | [Women Who Code](https://www.womenwhocode.com/jobs)                     | Womxn:rainbow:     |
 |                                   | [Diversity in Tech](https://www.diversifytech.co/job-board/entry-level) | Diversity:rainbow: |
+|                                   | [Protege](https://protege.dev/job-board)                                | Diversity:rainbow: |
+|                                   | [No CS OK](https://nocsok.com/)                                         | Self-taught & bootcamp |
 |                                   | [AngelList](https://angel.co/jobs)                                      | Startups           |
 |                                   | [Product Hunt](https://www.producthunt.com/jobs)                        | Startups           |
 | :triangular_flag_on_post::us:     | [Built In](https://builtin.com/tech-hubs)                               | Startups           |
 | :triangular_flag_on_post::canada: | [TechTO Career newsletter](https://www.techto.org/newsletter)           | Startups           |
 |                                   | [StackOverflow](https://stackoverflow.com/jobs)                         |                    |
 |                                   | [The Muse](https://www.themuse.com/)                                    |                    |
+|                                   | [4 Day Week](https://4dayweek.io/)                                      | 4-day work week    |
 
 
 ## :money_with_wings:Negotiating the offer
