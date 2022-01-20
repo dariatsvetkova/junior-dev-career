@@ -71,7 +71,6 @@ Country-specific resources are marked with a flag and country icons, like :trian
 |                                   | [Product Hunt](https://www.producthunt.com/jobs)                        | Startups           |
 | :triangular_flag_on_post::us:     | [Built In](https://builtin.com/tech-hubs)                               | Startups           |
 | :triangular_flag_on_post::canada: | [TechTO Career newsletter](https://www.techto.org/newsletter)           | Startups           |
-|                                   | [StackOverflow](https://stackoverflow.com/jobs)                         |                    |
 |                                   | [The Muse](https://www.themuse.com/)                                    |                    |
 |                                   | [4 Day Week](https://4dayweek.io/)                                      | 4-day work week    |
 
