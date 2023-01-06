@@ -41,7 +41,7 @@ Country-specific resources are marked with a flag and country icons, like :trian
 
 * Outreachy - 3-month paid, remote internship for underrepresented folks in **open source**: [link](https://www.outreachy.org/) :rainbow:
 * The Collab Lab - **team project practice**: [link](https://the-collab-lab.codes/) :triangular_flag_on_post:The Americas & EMEA :rainbow:
-* CodeBusters - 6-month paid, remote internshp for early-career developers: [link](https://www.codebusters.ca/team/apply) :triangular_flag_on_post:The Americas
+* CodeBusters - 6-month paid, remote internshp for early-career developers: [link](https://www.codebusters.ca/apply/mentorship-program) :triangular_flag_on_post::canada:
 * Code For America's paid 8-month apprenticeship in **open source civic tech** for underrepresented folks: [link](https://www.codeforamerica.org/news/code-for-america-announces-2021-apprenticeship-program) :triangular_flag_on_post::us: :rainbow:
 * Paid mentorship program for early-career **Ruby** developers: [link](https://rubyme.org/)
 * **Microsoft Leap** immersive 16-week apprenticeship for bootcamp grads and self-taught developers: [link](https://www.microsoft.com/en-us/leap/pathways/software-engineer/) :triangular_flag_on_post::us: & :nigeria: & :kenya: 
