@@ -68,6 +68,7 @@ Country-specific resources are marked with a flag and country icons, like :trian
 
 - **100Devs** :dart: Leon Noel, Managing Director of Engineering @ [Resilient Coders](https://resilientcoders.org/) helps you become a software engineer for free. Join discord server, follow: :point_right: [link](https://leonnoel.com/100devs/) :rainbow:
 - **#DearJuniorDev** Follow [Jessica Parker](https://www.linkedin.com/in/devjessparker/) on LinkedIn and join discord server.
+- **Reactiflux** a HUGE :grinning: community 200k+ of React developers: [link](https://www.reactiflux.com/)
 
 ## :gem:Job boards
 
