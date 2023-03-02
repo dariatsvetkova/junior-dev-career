@@ -57,7 +57,7 @@ Country-specific resources are marked with a flag and country icons, like :trian
 - TechTO Talent - livestreams and networking in the **Canadian startup** community: [link](https://www.techto.org/livestreams) :triangular_flag_on_post::canada:
 - Your local **meetups**: [link](https://www.meetup.com/)
 
-## :mailbox_closed: Communities
+## :family: Communities
 
 ---
 
@@ -83,6 +83,7 @@ Country-specific resources are marked with a flag and country icons, like :trian
 | :triangular_flag_on_post::canada: | [Work in Tech](https://www1.communitech.ca/jobs?filter=eyJqb2JfZnVuY3Rpb25zIjpbIlNvZnR3YXJlJTIwRW5naW5lZXJpbmciXX0%3D&q=junior) | Startups               |
 |                                   | [The Muse](https://www.themuse.com/)                                                                                            |                        |
 |                                   | [4 Day Week](https://4dayweek.io/)                                                                                              | 4-day work week        |
+|                                   | [Companies with Great Work Culture](https://companies.careervault.io/)                                                          | Career Vault           |
 
 ## :money_with_wings:Negotiating the offer
 
