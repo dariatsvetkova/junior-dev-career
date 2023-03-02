@@ -57,6 +57,10 @@ Country-specific resources are marked with a flag and country icons, like :trian
 - TechTO Talent - livestreams and networking in the **Canadian startup** community: [link](https://www.techto.org/livestreams) :triangular_flag_on_post::canada:
 - Your local **meetups**: [link](https://www.meetup.com/)
 
+## :mailbox_closed: Communities
+
+- **100Devs** :dart: Leon Noel, Managing Director of Engineering @ [Resilient Coders](https://resilientcoders.org/) helps you become a software engineer for free. [link](https://leonnoel.com/100devs/) :rainbow:
+
 ## :gem:Job boards
 
 | Geo                               | Name & Link                                                                                                                     | Specialty              |
