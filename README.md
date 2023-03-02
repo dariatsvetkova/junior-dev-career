@@ -56,6 +56,7 @@ Country-specific resources are marked with a flag and country icons, like :trian
 - PowerToFly - diversity-focused **virtual career fair**: [link](https://powertofly.com/events/virtual-job-fair/) :rainbow:
 - TechTO Talent - livestreams and networking in the **Canadian startup** community: [link](https://www.techto.org/livestreams) :triangular_flag_on_post::canada:
 - Your local **meetups**: [link](https://www.meetup.com/)
+- **DevPost** The home for hackathons: [link](https://devpost.com/)
 
 ## :family: Communities
 
@@ -65,7 +66,7 @@ Country-specific resources are marked with a flag and country icons, like :trian
 
 ---
 
-- **100Devs** :dart: Leon Noel, Managing Director of Engineering @ [Resilient Coders](https://resilientcoders.org/) helps you become a software engineer for free. Join discord server. [link](https://leonnoel.com/100devs/) :rainbow:
+- **100Devs** :dart: Leon Noel, Managing Director of Engineering @ [Resilient Coders](https://resilientcoders.org/) helps you become a software engineer for free. Join discord server, follow: :point_right: [link](https://leonnoel.com/100devs/) :rainbow:
 - **#DearJuniorDev** Follow [Jessica Parker](https://www.linkedin.com/in/devjessparker/) on LinkedIn and join discord server.
 
 ## :gem:Job boards
