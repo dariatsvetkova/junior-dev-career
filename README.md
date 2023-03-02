@@ -59,7 +59,14 @@ Country-specific resources are marked with a flag and country icons, like :trian
 
 ## :mailbox_closed: Communities
 
-- **100Devs** :dart: Leon Noel, Managing Director of Engineering @ [Resilient Coders](https://resilientcoders.org/) helps you become a software engineer for free. [link](https://leonnoel.com/100devs/) :rainbow:
+---
+
+- :point_right: Discord server invites expire in 7 days, discover on your own! The following contain links to starting points :arrow_heading_down:
+
+---
+
+- **100Devs** :dart: Leon Noel, Managing Director of Engineering @ [Resilient Coders](https://resilientcoders.org/) helps you become a software engineer for free. Join discord server. [link](https://leonnoel.com/100devs/) :rainbow:
+- **#DearJuniorDev** Follow [Jessica Parker](https://www.linkedin.com/in/devjessparker/) on LinkedIn and join discord server.
 
 ## :gem:Job boards
 
