@@ -62,9 +62,11 @@ Country-specific resources are marked with a flag and country icons, like :trian
 
 ---
 
-- :point_right: Discord server invites expire in 7 days, so no server invites are provided. The following contain links to starting points. Discover on your own! :arrow_heading_down: If the community _does not_ have a Discord Server it will be marked with a :no_entry:
+<!-- prettier-ignore-start -->
 
----
+#### :point_right: Discord server invites expire in 7 days, so no server invites are provided. The following contain links to starting points. Discover on your own! :arrow_heading_down: If the community _does not_ have a Discord Server it will be marked with a :no_entry:
+
+<!-- prettier-ignore-end -->
 
 - **100Devs** :dart: Leon Noel, Managing Director of Engineering @ [Resilient Coders](https://resilientcoders.org/) helps you become a software engineer for free. Join discord server, follow: :point_right: [link](https://leonnoel.com/100devs/) :rainbow:
 - **#DearJuniorDev** Follow [Jessica Parker](https://www.linkedin.com/in/devjessparker/) on LinkedIn and join discord server.
