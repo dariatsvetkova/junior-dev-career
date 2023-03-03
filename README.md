@@ -69,8 +69,11 @@ Country-specific resources are marked with a flag and country icons, like :trian
 <!-- prettier-ignore-end -->
 
 - **100Devs** :dart: Leon Noel, Managing Director of Engineering @ [Resilient Coders](https://resilientcoders.org/) helps you become a software engineer for free: :point_right: [link](https://leonnoel.com/100devs/) :rainbow:
-- **#DearJuniorDev** Follow [Jessica Parker](https://www.linkedin.com/in/devjessparker/) on LinkedIn.
 - **Reactiflux** a HUGE :grinning: community 200k+ of React developers: [link](https://www.reactiflux.com/)
+
+## :iphone: Social Content
+
+- **#DearJuniorDev** Follow [Jessica Parker](https://www.linkedin.com/in/devjessparker/) on LinkedIn.
 
 ## :gem:Job boards
 
