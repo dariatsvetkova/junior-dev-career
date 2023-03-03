@@ -60,8 +60,6 @@ Country-specific resources are marked with a flag and country icons, like :trian
 
 ## :family: Communities
 
----
-
 <!-- prettier-ignore-start -->
 
 #### :point_right: Discord server invites expire in 7 days, so no server invites are provided. The following contain links to starting points. Discover on your own! :arrow_heading_down: If the community _does not_ have a Discord Server it will be marked with a :no_entry:
