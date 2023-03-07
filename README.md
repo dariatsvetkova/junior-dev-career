@@ -62,16 +62,18 @@ Country-specific resources are marked with a flag and country icons, like :trian
 
 <!-- prettier-ignore-start -->
 
-#### :point_right: Discord server invites expire in 7 days, so no server invites are provided. The following contain links to starting points. Discover on your own! :arrow_heading_down: If the community _does not_ have a Discord Server it will be marked with a :no_entry:
+###### :point_right: Discord server invites expire in 7 days, so no server invites are provided. The following contain links to starting points. Discover on your own! :arrow_heading_down: If the community _does not_ have a Discord Server it will be marked with a :no_entry:
 
 <!-- prettier-ignore-end -->
 
-- **100Devs** :dart: Leon Noel, Managing Director of Engineering @ [Resilient Coders](https://resilientcoders.org/) helps you become a software engineer for free: :point_right: [link](https://leonnoel.com/100devs/) :rainbow:
-- **Reactiflux** a HUGE :grinning: community 200k+ of React developers: [link](https://www.reactiflux.com/)
+- **100Devs** Leon Noel, Managing Director of Engineering @ [Resilient Coders](https://resilientcoders.org/) helps you become a software engineer for free: [link](https://leonnoel.com/100devs/) :rainbow:
+- **Reactiflux** a HUGE community 200k+ of React developers: [link](https://www.reactiflux.com/)
+- **Women in Tech** Slack channel: [link](https://witchat.github.io/) - reach out to @dariatsvetkova if you want an invite :rainbow:
 
 ## :iphone: Social Content
 
-- **#DearJuniorDev** Follow [Jessica Parker](https://www.linkedin.com/in/devjessparker/) on LinkedIn.
+- **#DearJuniorDev** Follow Jessica Parker on LinkedIn: [link](https://www.linkedin.com/in/devjessparker/)
+- The **CodeNewbie** podcast with career stories, interviews, and tips: [link](https://www.codenewbie.org/podcast)
 
 ## :gem:Job boards
 
