@@ -79,7 +79,6 @@ Country-specific resources are marked with a flag and country icons, like :trian
 | --------------------------------- | ------------------------------------------------------------------------------------------------------------------------------- | ---------------------- |
 |                                   | [Women Who Code](https://www.womenwhocode.com/jobs)                                                                             | Womxn:rainbow:         |
 |                                   | [Diversity in Tech](https://www.diversifytech.co/job-board/entry-level)                                                         | Diversity:rainbow:     |
-|                                   | [Protege](https://protege.dev/job-board)                                                                                        | Diversity:rainbow:     |
 |                                   | [No CS OK](https://nocsok.com/)                                                                                                 | Self-taught & bootcamp |
 |                                   | [AngelList](https://angel.co/jobs)                                                                                              | Startups               |
 |                                   | [Product Hunt](https://www.producthunt.com/jobs)                                                                                | Startups               |
