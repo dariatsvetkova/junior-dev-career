@@ -26,6 +26,7 @@ Country-specific resources are marked with a flag and country icons, like :trian
 
 ## :books:Tech interview prep
 
+- **Check** if your target company doesn't ask Leetcode or whiteboard-style questions in the interviews: [link](https://airtable.com/app3GPfBakzyWI8WO/shr3eGPDm3wGjT2gA/tbluCbToxQ2knSLhh/viwmFR062GOjG4cjs)
 - Top-75 **LeetCode** questions to focus on: [link](https://www.teamblind.com/post/New-Year-Gift---Curated-List-of-Top-75-LeetCode-Questions-to-Save-Your-Time-OaM1orEU)
 - List of **interview questions** by programming language: [link](https://github.com/DopplerHQ/awesome-interview-questions)
 - Competitive programming/interview prep: [codewars.com](https://www.codewars.com/)
