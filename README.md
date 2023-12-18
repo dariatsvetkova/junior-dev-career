@@ -12,7 +12,7 @@ Country-specific resources are marked with a flag and country icons, like :trian
 
 ## :nail_care:Getting ready for job search
 
-- Flatiron's guide to job search: [link](https://github.com/learn-co-curriculum/careers-welcome)
+- Flatiron's guide to job search: [link](https://flatironschool.com/free-lessons/career-prep-lite/)
 - **Building an Effective Dev Portfolio** - an eBook by Josh Comeau: [link](https://www.joshwcomeau.com/effective-portfolio/)
 - A hiring manager's tips on making your **GitHub profile** ready for job hunt: [link](https://www.reddit.com/r/webdev/comments/90xmpw/how_to_prep_your_github_for_job_seeking/)
 - See what your **resume** looks like after an ATS scan: [topresume.com](https://www.topresume.com/resume-review)
