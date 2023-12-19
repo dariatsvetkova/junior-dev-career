@@ -21,7 +21,7 @@ Country-specific resources are marked with a flag and country icons, like :trian
 
 - The Muse's **job tracker** in Google Sheets: [link](https://docs.google.com/spreadsheets/d/1b4_lpHeLb9NldVWgWKq14nMxHEvlF3qMpEd3QdOc7Ck/edit#gid=815296917)
 - Flatiron's **job tracker** in Google Sheets: [link](https://docs.google.com/spreadsheets/d/1zdl3Cs3ev0ehS9h2in1aNntLWNVUExNEjdi4Vn_ydy8/edit#gid=271319733)
-- **Notion template** for organizing the job hunt: [link](https://www.notioneverything.com/templates/job-hunt-tracker)
+- **Notion template** for organizing the job hunt: [link](https://www.notioneverything.com/templates/the-dream-job-hub-the-ultimate-job-searching-template)
 - **Trello template** application tracker: [link](https://trello.com/templates/operations-hr/job-hunt-d3yVjzRE)
 
 ## :books:Tech interview prep
