@@ -43,7 +43,6 @@ Country-specific resources are marked with a flag and country icons, like :trian
 - Paid mentorship program for early-career **Ruby** developers: [link](https://rubyme.org/)
 - **Microsoft Leap** immersive 16-week apprenticeship for bootcamp grads and self-taught developers: [link](https://www.microsoft.com/en-us/leap/pathways/software-engineer/) :triangular_flag_on_post::us: & :nigeria: & :kenya:
 - **LinkedIn Reach** apprenticeship program for bootcamp grads and self-taught developers: [link](https://careers.linkedin.com/reach) :triangular_flag_on_post::us:
-- **Twitter Engineering Apprenticeship** for bootcamp grads and self-taught developers: [link](https://careers.twitter.com/en/twitter-engineering-apprenticeship-program.html) :triangular_flag_on_post::us:
 - **Twilio Hatch** 6-month software engineering apprenticeship program for underrepresented persons: [link](https://www.twilio.com/company/diversity/hatch) :triangular_flag_on_post::us::rainbow:
 - **IBM New Collar** apprenticeship program for candidates without an advanced degree: [link](https://www.ibm.com/us-en/employment/newcollar/apprenticeships/) :triangular_flag_on_post::us: & EMEA
 - **Shopify** remote internships open to students, co-ops, recent graduates and early-career developers: [link](https://www.shopify.ca/careers/interns) :triangular_flag_on_post:The Americas
