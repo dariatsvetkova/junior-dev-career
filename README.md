@@ -73,6 +73,7 @@ Country-specific resources are marked with a flag and country icons, like :trian
 
 - **#DearJuniorDev** Follow Jessica Parker on LinkedIn: [link](https://www.linkedin.com/in/devjessparker/)
 - The **CodeNewbie** podcast with career stories, interviews, and tips: [link](https://www.codenewbie.org/podcast)
+- **Soft Skills Engineering** podcast (free) and Slack channel ( :moneybag: ) - to improve your soft skills: [link](https://softskills.audio/)
 
 ## :gem:Job boards
 
