@@ -67,6 +67,7 @@ Country-specific resources are marked with a flag and country icons, like :trian
 - **100Devs** Leon Noel, Managing Director of Engineering @ [Resilient Coders](https://resilientcoders.org/) helps you become a software engineer for free: [link](https://leonnoel.com/100devs/) :rainbow:
 - **Reactiflux** a HUGE community 200k+ of React developers: [link](https://www.reactiflux.com/)
 - **Women in Tech** Slack channel: [link](https://witchat.github.io/) - reach out to @dariatsvetkova if you want an invite :rainbow:
+- **PyLadies** community and Slack channel: [link](https://pyladies.com/) :rainbow:
 - **TorontoJS** Slack channel and events: [link](https://torontojs.com/) :triangular_flag_on_post::canada:
 
 ## :iphone: Social Content
