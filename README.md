@@ -94,6 +94,7 @@ Country-specific resources are marked with a flag and country icons, like :trian
 |                                   | [4 Day Week](https://4dayweek.io/)                                                                                              | 4-day work week        |
 |                                   | [Career Vault](https://companies.careervault.io/)                                                                               | Great work culture     |
 |                                   | [Himalayas](https://himalayas.app)                                                                                              | Remote jobs            |
+| | [FoundRole](https://www.foundrole.com) | AI job search + tracker |
 
 ## :money_with_wings:Negotiating the offer
 
