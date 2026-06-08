@@ -2,6 +2,11 @@
 
 ## to help you land your first job
 
+> ⚠️ **Archive Notice**
+>
+> AI has changed software development so dramatically since I was a junior developer that I no longer feel qualified to give career advice to people who are starting out today. Rather than continue maintaining guidance based on an increasingly outdated perspective, I've decided to archive this repository.
+
+
 ### :label:Legend:
 
 Most of the resources on this list are free; those that aren't, are marked with :moneybag:
