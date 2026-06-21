@@ -93,6 +93,7 @@ Country-specific resources are marked with a flag and country icons, like :trian
 | :triangular_flag_on_post::us:     | [Built In](https://builtin.com/tech-hubs)                                                                                       | Startups               |
 | :triangular_flag_on_post::canada: | [TechTO Career newsletter](https://www.techto.org/newsletter)                                                                   | Startups               |
 | :triangular_flag_on_post::canada: | [Work in Tech](https://www1.communitech.ca/jobs?filter=eyJqb2JfZnVuY3Rpb25zIjpbIlNvZnR3YXJlJTIwRW5naW5lZXJpbmciXX0%3D&q=junior) | Startups               |
+| :triangular_flag_on_post::canada: | [Hanzilla Jobs](https://jobs.hanzilla.co/new-grad/)                                                                                | Student/new-grad/junior roles |
 |                                   | [Y-combinator](https://www.workatastartup.com/)                                                                                 | Startups               |
 |                                   | [Otta](https://otta.com/)                                                                                                       |                        |
 |                                   | [The Muse](https://www.themuse.com/)                                                                                            |                        |
